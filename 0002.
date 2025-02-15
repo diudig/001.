@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ding12ding welcom</title>
+    <style>   
+    body {
+        margin: 10000;
+      }
+    </style>
+  </head>
+
+      <body style="margin:1;">
+       <p>123123:   <a target="_blank" rel="noopener noreferrer"href="https://www.bilibili.com/">https://bilibili.com/ </a></p>
+       <p style="background:green;"> 疯狂星期四
+      </body>
+</html>
